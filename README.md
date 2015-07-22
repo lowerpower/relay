@@ -1,3 +1,11 @@
+This module is based on [mvines/relay]
+
+I'm trying to add multi module support and the ability to "play files" as well as the original controls.
+
+Web Interface is an Option
+
+... Updates as we go ...
+
 This module controls a SainSmart 16-channel USB-HID programmable relay.
 
 ## Usage
